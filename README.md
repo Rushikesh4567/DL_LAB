@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Lab (AIML) – Portfolio Project
+# 🧠 Deep Learning Lab (AIML)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/your-username/deep-learning-lab?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/deep-learning-lab?style=social)
